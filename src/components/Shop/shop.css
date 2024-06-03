@@ -1,0 +1,25 @@
+.shop {
+    display: flex;
+    flex-wrap: wrap;
+}
+.shop-item {
+    width: 300px;
+    height: 475px;
+    position: relative;
+}
+
+.item-title {
+    font-size: 16px;
+}
+
+.cart-btns {
+    position: absolute;
+    left: 30%;
+    bottom: 0;
+    margin-bottom: 1%;
+}
+
+.item-img {
+    height: 175px;
+    width: 150px;
+}
